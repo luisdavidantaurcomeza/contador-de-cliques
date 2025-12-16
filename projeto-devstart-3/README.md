@@ -70,7 +70,7 @@ Criação do projeto de certificação React Devstart
 
 # Contador de Cliques
 
-Este projeto é uma aplicação React simples que implementa um contador de cliques.
+Este projeto é uma aplicação React simples que implementa um contador de cliques, foi criado uma pasta chamada components e dentro dela foi criado um arquivo chamado Contador.js o qual foi gerado o código e exportado para o arquivo App.js que também foi modificado para poder mostrar as funcionalidades. 
 
 ##  Funcionalidades
 - Exibe um contador iniciado em zero
